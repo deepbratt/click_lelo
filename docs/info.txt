@@ -1,2 +1,9 @@
 reference : https://www.snappr.co/
 http://themes.semicolonweb.com/html/canvas/
+
+
+
+
+
+http://template.8guild.com/zurapp/zurapp/home-app-intro-light.html
+http://template.8guild.com/zurapp/zurapp/index.html
